@@ -1,7 +1,7 @@
 <a href="https://visitorbadge.io/status?path=SamsonPG"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=SamsonPG&label=VISITORS&countColor=%23263759" /></a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SamsonPG!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SamsonPG!;" />
 </h1>
  <hr/>
 <br/>
@@ -39,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,mongodb,react,nodejs,express,firebase,illustrator" /><br>
     <img src="https://skillicons.dev/icons?i=figma,bootstrap,git,html,css,photoshop,redux" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,postman,postgresql,nginx,heroku,aws,android" />
+    <img src="https://skillicons.dev/icons?i=wordpress,postman,postgresql,nginx,heroku,aws,typescript" />
 </div>
 
 <br/>
