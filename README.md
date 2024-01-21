@@ -6,8 +6,9 @@
  <hr/>
 <br/>
 
-<h3 align="center">__Coding my own path, one MERN stack at a time.__🎯</h3>
-<h3 align="center">"Empowering my journey, MERNing my way to success."</h3>
+
+<h3 align="center">"Empowering my journey, MERNing my way to success.🎯"</h3>
+<h3 align="center">Self thought MERN Developer</h3>
 
 <br/>
 
