@@ -32,7 +32,7 @@
      <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<br/><br/>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -58,9 +58,4 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!;+Connect+with+me+a+message+on+Linkedin!+🚀;>
-</h3>
-
-<br/>
 
