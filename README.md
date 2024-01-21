@@ -23,9 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:samsonpg077@gmail.com"  target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+ 
   <a href="https://linkedin.com/in/munavar-pm-340586242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -39,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,firebase,github,java,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,react,nodejs,express,firebase,github,java,javascript" /><br>
     <img src="https://skillicons.dev/icons?i=figma,bootstrap,eclipse,git,html,css,vscode,photoshop" />
 </div>
 
