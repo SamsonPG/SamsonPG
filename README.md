@@ -25,7 +25,7 @@
  
 <div align="center"> 
  
-  <a href="https://linkedin.com/in/munavar-pm-340586242" target="_blank">
+  <a href="https://www.linkedin.com/in/samson-p-g-335964133" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://leetcode.com/SamsonPG/" target="_blank">
