@@ -6,19 +6,18 @@
  <hr/>
 <br/>
 
-<h3 align="center">Just Another Full Stack MERN Developer.</h3>
+<h3 align="center">Coding my own path, one MERN stack at a time.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a e-commerce app**
+ 🔭 I’m currently working on **an e-commerce app**
  
  🌱 I’m currently learning **React**
 
  📫 How to reach me **samsonpg077@gmail.com**
 
- ⚡ Fun fact **I am always just Calm**
  
  </div>
  
