@@ -6,7 +6,7 @@
  <hr/>
 <br/>
 
-<h3 align="center">Coding my own path, one MERN stack at a time.</h3>
+<h3 align="center">__Coding my own path, one MERN stack at a time.__🎯</h3>
 
 <br/>
 
