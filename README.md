@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 align="center" src="https://streak-stats.demolab.com/?user=SamsonPG&count_private=true&theme=radical&border=none" alt="streak stats"/> 
+  <img width=400 align="center" src="https://streak-stats.demolab.com/?user=SamsonPG&count_private=true&theme=radical" alt="streak stats"/> 
  <img width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsonPG&hide=HTML&langs_count=8&layout=compact&theme=radical&exclude_repo=github-readme-stats" alt="top langs" />
 
 
