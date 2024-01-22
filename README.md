@@ -47,23 +47,23 @@
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=SamsonPG&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SamsonPG&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsonPG&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+  <img width=390 src="https://streak-stats.demolab.com/?user=SamsonPG&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+ <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsonPG&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 
-<br/><br/>
-<hr/>
-/////////
-</div>
-<div align="center">
 <a href="https://github.com/SamsonPG">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamsonPG&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamsonPG&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamsonPG&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamsonPG&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamsonPG&theme=2077" height="180em" />
+
+
+</div>
+
+
+<br/><br/>
+<hr/>
+
 </div>
 
