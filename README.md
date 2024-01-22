@@ -1,3 +1,5 @@
+![cover cropped](https://github.com/SamsonPG/SamsonPG/assets/121846435/5e6ba39e-3613-42e9-95cb-e7ac3c458bb8)
+
 <a href="https://visitorbadge.io/status?path=SamsonPG"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=SamsonPG&label=VISITORS&countColor=%23263759" /></a>
 
 <h1 align="center">
