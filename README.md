@@ -79,6 +79,9 @@
  <hr/>
  
 ### 📺 Latest YouTube Videos
+
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXJ7Dql-WDTjjDSV3STP3LQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
  
 <!-- BEGIN YOUTUBE-CARDS -->
 [![SoundShoppie E-Commerce Website Project](https://ytcards.demolab.com/?id=EKhRnjEeuRE&title=SoundShoppie+E-Commerce+Website+Project&lang=en&timestamp=1706289696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SoundShoppie E-Commerce Website Project")](https://www.youtube.com/watch?v=EKhRnjEeuRE)
