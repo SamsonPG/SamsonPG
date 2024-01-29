@@ -80,7 +80,7 @@
  
 ### 📺 Latest YouTube Videos
 
-  <a href="https://www.youtube.com/c/@samsonpg?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXJ7Dql-WDTjjDSV3STP3LQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
  
 <!-- BEGIN YOUTUBE-CARDS -->
