@@ -15,7 +15,10 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
+ 
           channel_id: UCXJ7Dql-WDTjjDSV3STP3LQ
           comment_tag_name: YOUTUBE-CARDS
+          card_width: 250
+          border_radius:5
          
-          show_duration: true
+       
