@@ -92,5 +92,8 @@
 [![Admin User Crud](https://ytcards.demolab.com/?id=0_YNrckDPcs&title=Admin+User+Crud&lang=en&timestamp=1706121242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Admin User Crud")](https://www.youtube.com/watch?v=0_YNrckDPcs)
 <!-- END YOUTUBE-CARDS -->
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1)
+
+
 </div>
 <br/>
