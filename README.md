@@ -44,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=wordpress,postman,postgresql,nginx,heroku,aws,typescript" />
 </div>
 
+
 <br/>
 
 <h2 align="center">⚡ Status ⚡</h2>
@@ -61,18 +62,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamsonPG&theme=2077" height="180em" />
 
 
-</div>
-
-
-<br/><br/>
-<hr/>
-
-<br/>
-<div align=center>
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" height="180em">
-</div>
-
- 
 </div>
 <div align=center>
 <br/>
@@ -97,3 +86,14 @@
          
 </div>
 <br/>
+
+<hr/>
+
+<br/>
+<div align=center>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" height="180em">
+</div>
+
+ 
+</div>
+
