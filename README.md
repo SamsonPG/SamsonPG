@@ -67,7 +67,7 @@
 <br/>
  <hr/>
  
-### 📺 Latest YouTube Videos [![YouTube Channel](https://www.youtube.com/youtube_logo)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ)
+### 📺 Latest YouTube Videos [!(https://www.youtube.com/youtube_logo)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ)
 
 <br/>
 
