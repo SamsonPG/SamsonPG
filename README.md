@@ -75,4 +75,10 @@
  
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
+[![SoundShoppie E-Commerce Website Project](https://ytcards.demolab.com/?id=EKhRnjEeuRE&title=SoundShoppie+E-Commerce+Website+Project&lang=en&timestamp=1706289696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SoundShoppie E-Commerce Website Project")](https://www.youtube.com/watch?v=EKhRnjEeuRE)
+[![MERN app with Redux](https://ytcards.demolab.com/?id=6xxaCP8Py4Y&title=MERN+app+with+Redux&lang=en&timestamp=1706206632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MERN app with Redux")](https://www.youtube.com/watch?v=6xxaCP8Py4Y)
+[![ToDo App using React](https://ytcards.demolab.com/?id=k3UhCTwqwUE&title=ToDo+App+using+React&lang=en&timestamp=1706203277&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ToDo App using React")](https://www.youtube.com/watch?v=k3UhCTwqwUE)
+[![Olx Clone using React & Firebase](https://ytcards.demolab.com/?id=12noS1x_GiQ&title=Olx+Clone+using+React+%26+Firebase&lang=en&timestamp=1706203114&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Olx Clone using React & Firebase")](https://www.youtube.com/watch?v=12noS1x_GiQ)
+[![Netflix clone](https://ytcards.demolab.com/?id=iENethMvJYQ&title=Netflix+clone&lang=en&timestamp=1706121404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Netflix clone")](https://www.youtube.com/watch?v=iENethMvJYQ)
+[![Admin User Crud](https://ytcards.demolab.com/?id=0_YNrckDPcs&title=Admin+User+Crud&lang=en&timestamp=1706121242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Admin User Crud")](https://www.youtube.com/watch?v=0_YNrckDPcs)
 <!-- END YOUTUBE-CARDS -->
