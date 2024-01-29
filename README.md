@@ -67,8 +67,10 @@
 <br/>
  <hr/>
  
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos [![YouTube Channel](https://www.youtube.com/youtube_logo)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ)
+
 <br/>
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![SoundShoppie E-Commerce Website Project](https://ytcards.demolab.com/?id=EKhRnjEeuRE&title=SoundShoppie+E-Commerce+Website+Project&lang=en&timestamp=1706289696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SoundShoppie E-Commerce Website Project")](https://www.youtube.com/watch?v=EKhRnjEeuRE)
