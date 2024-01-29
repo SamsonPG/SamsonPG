@@ -67,7 +67,7 @@
 <br/>
  <hr/>
  
-### 📺 Latest YouTube Videos [!(https://www.youtube.com/youtube_logo)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ)
+### 📺 Latest YouTube Videos  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1)
 
 <br/>
 
@@ -98,4 +98,6 @@
 
  
 </div>
+
+
 
