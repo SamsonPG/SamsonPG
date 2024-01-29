@@ -80,9 +80,6 @@
  
 ### 📺 Latest YouTube Videos
 
-  <a href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXJ7Dql-WDTjjDSV3STP3LQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
- 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![SoundShoppie E-Commerce Website Project](https://ytcards.demolab.com/?id=EKhRnjEeuRE&title=SoundShoppie+E-Commerce+Website+Project&lang=en&timestamp=1706289696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SoundShoppie E-Commerce Website Project")](https://www.youtube.com/watch?v=EKhRnjEeuRE)
 [![MERN app with Redux](https://ytcards.demolab.com/?id=6xxaCP8Py4Y&title=MERN+app+with+Redux&lang=en&timestamp=1706206632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MERN app with Redux")](https://www.youtube.com/watch?v=6xxaCP8Py4Y)
@@ -92,8 +89,14 @@
 [![Admin User Crud](https://ytcards.demolab.com/?id=0_YNrckDPcs&title=Admin+User+Crud&lang=en&timestamp=1706121242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Admin User Crud")](https://www.youtube.com/watch?v=0_YNrckDPcs)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1)
+(href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1)[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
+#
+<br/>
+  <a href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXJ7Dql-WDTjjDSV3STP3LQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         
 </div>
 <br/>
