@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an e-commerce app**
+ 🔭 I’m currently working on **React app**
  
  🌱 I’m currently learning **React**
 
