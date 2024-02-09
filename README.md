@@ -85,7 +85,7 @@
 
 <br/>
   <a href="https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe for more" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXJ7Dql-WDTjjDSV3STP3LQ?color=%23E05D44&label=Subscribe for more&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Visit for more" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXJ7Dql-WDTjjDSV3STP3LQ?color=%23E05D44&label=Subscribe for more&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
          
 </div>
 <br/>
