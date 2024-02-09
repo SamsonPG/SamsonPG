@@ -61,7 +61,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamsonPG&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamsonPG&theme=2077" height="180em" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamsonPG&show_icons=true&locale=en" alt="SamsonPG" />
+
 
 </div>
 <div align=center>
