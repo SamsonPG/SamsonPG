@@ -18,7 +18,7 @@
  
  🔭 I’m currently working on **React app**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **NextJS**
 
  📫 How to reach me **samsonpg077@gmail.com**
 
