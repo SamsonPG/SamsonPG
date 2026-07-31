@@ -16,11 +16,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React app**
+ 🔭 I’m currently working on **Latest tech**
  
- 🌱 I’m currently learning **NextJS**
-
- 📫 How to reach me **samsonpg077@gmail.com**
+ 🌱 I’m currently learning **AI Trends**
 
  
  </div>
