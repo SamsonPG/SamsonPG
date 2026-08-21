@@ -96,7 +96,63 @@
 </div>
 
  
-</div>
+</div>  
+
+
+
+#//////////////////////////////////////
+
+# Samson P G
+
+**Full-stack engineer — TypeScript, Next.js, PostgreSQL.**
+I build and operate production systems solo at [Acsaven](https://acsaven.com), an independent software studio.
+
+Most of my work is the part that shows up *after* launch: encryption for stored credentials, permission checks where the UI and the server agree, webhooks that survive retries, and CI that fails when those slip.
+
+---
+
+### What I'm building
+
+**[TryTokka](https://trytokka.com)** — AI API spend monitoring for developers and teams
+Next.js · TypeScript · Supabase/Postgres · Vercel
+96 API routes · 69 migrations · 429 automated tests
+AES-256-GCM credential encryption, Row-Level Security, TOTP 2FA, and live payments across Razorpay, Dodo and Stripe with signature-verified, idempotent webhooks.
+The three credential-handling modules are [published for review](https://github.com/acsavenhq/trytokka-security) — you shouldn't have to take a security claim on trust.
+
+**[TryQuickImg](https://tryquickimg.com) · [TryDevSnip](https://trydevsnip.com) · [TryCalculatingNow](https://trycalculatingnow.com)**
+Astro · Cloudflare Workers · ~700 pages combined
+Browser-based tools that each do one job properly. Every file is processed on your own device — nothing is uploaded.
+
+---
+
+### Published
+
+[![npm](https://img.shields.io/npm/v/@acsaven/astro-ops?label=%40acsaven%2Fastro-ops&color=34E89A&labelColor=0C1512)](https://www.npmjs.com/package/@acsaven/astro-ops)
+
+**[@acsaven/astro-ops](https://www.npmjs.com/package/@acsaven/astro-ops)** — production build gates for Astro sites. Seven checks that turn silent post-deploy failures into build failures: content-hashed cache busting, link integrity, third-party asset detection, freshness watchdogs, discovery wiring, performance budgets, and a source-integrity gate. Zero runtime dependencies.
+
+**[Scout](https://marketplace.visualstudio.com/items?itemName=trytokka.scout-ai-spend-tracker)** — VS Code extension (MIT) showing live AI API spend in the status bar. No proxy, no SDK, no changes to your project.
+
+---
+
+### Stack
+
+[![](https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,postgres,supabase,astro,cloudflare,vercel,git)](https://skillicons.dev)
+
+---
+
+### Before this
+
+~2 years building production web applications, most recently at Benagon Technologies. Before software: four years in print production and sales in Bahrain, and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
+
+**Open to full-stack and backend roles** — Kochi, Bengaluru, or remote.
+
+[LinkedIn](https://www.linkedin.com/in/samson-p-g-335964133) · [acsaven.com](https://acsaven.com) · [@acsavenhq](https://github.com/acsavenhq)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsonPG&hide=HTML&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="150">
+
 
 
 
