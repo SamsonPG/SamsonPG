@@ -8,10 +8,6 @@
 
 <br/>
 
-
-
-# Samson P G
-
 **Full-stack engineer — TypeScript, Next.js, PostgreSQL.**
 I build and operate production systems solo at [Acsaven](https://acsaven.com), an independent software studio.
 
