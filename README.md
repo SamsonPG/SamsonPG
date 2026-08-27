@@ -29,6 +29,18 @@ Browser-based tools that each do one job properly. Every file is processed on yo
 
 ---
 
+### Lab
+
+**[Repo Mentor](https://repomentor.acsaven.com)** — offline-first codebase onboarding
+Scan a repo, build a knowledge brain, learn with playlists, quizzes, and a Blueprint map. No account required; no required LLM. Live on Cloudflare Workers.
+Source: [acsavenhq/repo-mentor](https://github.com/acsavenhq/repo-mentor)
+
+**[llm-docs-lab](https://llmdocs.acsaven.com)** — cited answers over a fixed snapshot of LLM provider docs
+Retrieval + evals + prompt-injection tests. Measured results: [static results page](https://samsonpg.github.io/static/llm-docs-lab/results/).
+Source: [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab)
+
+---
+
 ### Published
 
 [![npm](https://img.shields.io/npm/v/@acsaven/astro-ops?label=%40acsaven%2Fastro-ops&color=34E89A&labelColor=0C1512)](https://www.npmjs.com/package/@acsaven/astro-ops)
