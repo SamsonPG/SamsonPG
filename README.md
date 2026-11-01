@@ -20,13 +20,13 @@ Most of my work is the part that shows up *after* launch: encryption for stored 
 
 **[TryTokka](https://trytokka.com)** — AI API spend monitoring for developers and teams
 Next.js · TypeScript · Supabase/Postgres · Vercel
-97 API routes · 71 migrations · 639 automated tests
-AES-256-GCM credential encryption, Row-Level Security, TOTP 2FA, and live payments across Razorpay, Dodo and Stripe with signature-verified, idempotent webhooks.
+99 API routes · 71 migrations · 743 automated tests
+AES-256-GCM credential encryption, Row-Level Security, TOTP 2FA, and payment integrations for Razorpay, Dodo and Stripe with signature-verified, idempotent webhooks.
 The three credential-handling modules are [published for review](https://github.com/acsavenhq/trytokka-security) — you shouldn't have to take a security claim on trust.
 
 **[TryQuickImg](https://tryquickimg.com) · [TryDevSnip](https://trydevsnip.com) · [TryCalculatingNow](https://trycalculatingnow.com)**
-Astro · Cloudflare Workers · ~700 pages combined
-Browser-based tools that each do one job properly. Every file is processed on your own device — nothing is uploaded.
+Astro · Cloudflare Workers · ~670 pages combined
+Browser-based tools that each do one job properly. Everything you process stays on your own device; files are never uploaded.
 
 ---
 
