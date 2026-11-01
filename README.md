@@ -19,7 +19,7 @@ Most of my work is the part that shows up *after* launch: encryption for stored 
 
 **[TryTokka](https://trytokka.com)** — AI API spend monitoring for developers and teams
 Next.js · TypeScript · Supabase/Postgres · Vercel
-96 API routes · 69 migrations · 429 automated tests
+97 API routes · 71 migrations · 639 automated tests
 AES-256-GCM credential encryption, Row-Level Security, TOTP 2FA, and live payments across Razorpay, Dodo and Stripe with signature-verified, idempotent webhooks.
 The three credential-handling modules are [published for review](https://github.com/acsavenhq/trytokka-security) — you shouldn't have to take a security claim on trust.
 
@@ -33,7 +33,6 @@ Browser-based tools that each do one job properly. Every file is processed on yo
 
 **[Repo Mentor](https://repomentor.acsaven.com)** — offline-first codebase onboarding
 Scan a repo, build a knowledge brain, learn with playlists, quizzes, and a Blueprint map. No account required; no required LLM. Live on Cloudflare Workers.
-Source: [acsavenhq/repo-mentor](https://github.com/acsavenhq/repo-mentor)
 
 **[llm-docs-lab](https://llmdocs.acsaven.com)** — cited answers over a fixed snapshot of LLM provider docs
 Retrieval + evals + prompt-injection tests. Measured results: [static results page](https://samsonpg.github.io/static/llm-docs-lab/results/).
@@ -61,7 +60,7 @@ Source: [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab)
 
 ~2 years building production web applications, most recently at Benagon Technologies. Before software: four years in print production and sales in Bahrain, and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
 
-**Open to full-stack and backend roles** — Kochi, Bengaluru, or remote.
+**Open to full-stack and frontend roles** — anywhere in India, remote, or abroad, including Gulf countries; willing to relocate.
 
 [LinkedIn](https://www.linkedin.com/in/samson-p-g-335964133) · [acsaven.com](https://acsaven.com) · [@acsavenhq](https://github.com/acsavenhq) 
 ### 📺 Latest YouTube Videos  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1)
