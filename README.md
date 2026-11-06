@@ -1,4 +1,4 @@
-![cover cropped](https://github.com/SamsonPG/SamsonPG/assets/121846435/5e6ba39e-3613-42e9-95cb-e7ac3c458bb8)
+![AI-Native Product Builder: TypeScript, Next.js, PostgreSQL. Six products shipped by directing Claude Code.](assets/cover.png)
 
 <a href="https://visitorbadge.io/status?path=SamsonPG"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=SamsonPG&label=VISITORS&countColor=%23263759" /></a>
 
@@ -59,7 +59,7 @@ Source: [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab)
 
 ### Before this
 
-~2 years in software roles, most recently at Benagon Technologies, where I delivered features with AI tools. Before software: four years in print production and sales in Bahrain, and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
+Nearly two years at Benagon Technologies (frontend intern, then software developer, Jul 2024 – May 2026), where I delivered features with AI tools. Before software: over four years in Bahrain in graphic design, print production and computer sales (2018–2022), and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
 
 **Open to full-stack and frontend roles** — anywhere in India, remote, or abroad, including Gulf countries; willing to relocate.
 
