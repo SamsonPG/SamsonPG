@@ -8,9 +8,9 @@
 
 <br/>
 
-**Full-stack engineer — TypeScript, Next.js, PostgreSQL.**
+**AI-native product builder — full-stack web products, built with Claude Code.**
 I build and operate production systems solo at [Acsaven](https://acsaven.com), an independent software studio.
-AI-native product builder — shipped six production apps with Claude Code; rebuilding hands-on coding alongside AI-assisted delivery.
+AI-native product builder — shipped six production apps with Claude Code; learning hands-on coding alongside AI-assisted delivery.
 
 Most of my work is the part that shows up *after* launch: encryption for stored credentials, permission checks where the UI and the server agree, webhooks that survive retries, and CI that fails when those slip.
 
@@ -51,7 +51,7 @@ Source: [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab)
 
 ---
 
-### Stack
+### Stack my products are built on
 
 [![](https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,postgres,supabase,astro,cloudflare,vercel,git)](https://skillicons.dev)
 
@@ -59,7 +59,7 @@ Source: [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab)
 
 ### Before this
 
-~2 years building production web applications, most recently at Benagon Technologies. Before software: four years in print production and sales in Bahrain, and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
+~2 years in software roles, most recently at Benagon Technologies, where I delivered features with AI tools. Before software: four years in print production and sales in Bahrain, and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
 
 **Open to full-stack and frontend roles** — anywhere in India, remote, or abroad, including Gulf countries; willing to relocate.
 
