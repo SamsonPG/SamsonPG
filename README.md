@@ -10,7 +10,7 @@
 
 **AI-native product builder — full-stack web products, built with Claude Code.**
 I build and operate production systems solo at [Acsaven](https://acsaven.com), an independent software studio.
-Shipped six production apps with Claude Code; learning hands-on coding alongside AI-assisted delivery.
+Shipped six production apps with Claude Code, drawing on a product and design background.
 
 The products focus on the part that shows up *after* launch: encryption for stored credentials, permission checks where the UI and the server agree, webhooks that survive retries, and CI that fails when those slip.
 
