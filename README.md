@@ -63,7 +63,7 @@ Nearly two years at Benagon Technologies (frontend intern, then software develop
 
 **Open to full-stack and frontend roles** — anywhere in India, remote, or abroad, including Gulf countries; willing to relocate.
 
-[LinkedIn](https://www.linkedin.com/in/samson-p-g-335964133) · [acsaven.com](https://acsaven.com) · [@acsavenhq](https://github.com/acsavenhq) 
+[LinkedIn](https://www.linkedin.com/in/samsonpg) · [acsaven.com](https://acsaven.com) · [@acsavenhq](https://github.com/acsavenhq) 
 ### 📺 Latest YouTube Videos  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXJ7Dql-WDTjjDSV3STP3LQ?sub_confirmation=1)
 
 <br/>
