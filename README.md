@@ -59,7 +59,7 @@ Source: [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab)
 
 ### Before this
 
-Nearly two years at Benagon Technologies (frontend intern, then software developer, Jul 2024 – May 2026), where I delivered features with AI tools. Before software: over four years in Bahrain in graphic design, print production and computer sales (2018–2022), and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
+Nearly two years at Benagon Technologies (software developer trainee, then software developer, Jun 2024 – May 2026), where I delivered features with AI tools. Before software: over four years in Bahrain in graphic design, print production and computer sales (2018–2022), and an MSc in Electronics. That background is why I care about things working in the real world, not only on my machine.
 
 **Open to full-stack and frontend roles** — anywhere in India, remote, or abroad, including Gulf countries; willing to relocate.
 
